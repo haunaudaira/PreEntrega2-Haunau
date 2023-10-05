@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Facebook",
+        "img": "./images/redes/facebook.png",
+        "link": "https://facebook.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Instagram",
+        "img": "./images/redes/instagram.png",
+        "link": "https://instagram.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Twitter",
+        "img": "./images/redes/twitter.png",
+        "link": "https://twitter.com"
+    }
+]
